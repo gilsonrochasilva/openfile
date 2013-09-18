@@ -9,7 +9,9 @@ Using this plugin requires Android PhoneGap. It has been successfully tested on 
 
 To install the plugin, add in your config.xml:
 
+```````javascript
 <gap:plugin name="com.phonegap.plugins.openfile" />
+```````
 
 Using the plugin
 ===========
