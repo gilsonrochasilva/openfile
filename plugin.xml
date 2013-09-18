@@ -4,7 +4,7 @@
     id="com.phonegap.plugins.openfile"
     version="4.2.1">
 
-    <name>Child Browser</name>
+    <name>FileOpen</name>
 
     <description>
         Simple plugin which allows you to open popular files (PDF, WORD, EXCEL, JPG, GIF, POWERPOINT, VIDEOS, MUSIC etc.) stored locally on your device with Phonegap.
